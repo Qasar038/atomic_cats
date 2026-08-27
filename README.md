@@ -7,4 +7,8 @@
 
 ---
 
+### Команда
+- Qasar038 — Разработчик на C++
+
+----
 © 2026 Atomic Cats Security & Software
