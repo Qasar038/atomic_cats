@@ -23,15 +23,16 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.0973349"
-     inkscape:cx="712.63569"
-     inkscape:cy="838.85057"
+     inkscape:zoom="0.54866745"
+     inkscape:cx="-384.5681"
+     inkscape:cy="558.62618"
      inkscape:window-width="1916"
      inkscape:window-height="1044"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     showgrid="false" />
   <defs
      id="defs1">
     <rect
@@ -64,71 +65,137 @@
        width="386.77844"
        height="34.640457"
        id="rect3-0" />
+    <rect
+       x="396.8504"
+       y="152.075"
+       width="405.91572"
+       height="34.640457"
+       id="rect3-0-7" />
+    <rect
+       x="396.8504"
+       y="152.075"
+       width="442.26446"
+       height="34.640457"
+       id="rect3-0-0" />
+    <rect
+       x="396.8504"
+       y="152.075"
+       width="442.26447"
+       height="34.640457"
+       id="rect3-0-0-7" />
+    <rect
+       x="396.8504"
+       y="152.075"
+       width="442.26447"
+       height="34.640457"
+       id="rect3-0-0-75" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
     <circle
-       style="fill:#000000;stroke-width:0.264583"
+       style="fill:#000000;stroke-width:0.129055"
        id="path1"
-       cx="56.262917"
-       cy="50.125141"
-       r="24.892076" />
+       cx="15.060839"
+       cy="14.227583"
+       r="12.141508" />
     <circle
-       style="fill:#c49aff;stroke-width:0.264583;fill-opacity:1"
+       style="fill:#c49aff;fill-opacity:1;stroke-width:0.129055"
        id="path1-5"
-       cx="56.262917"
-       cy="110.57179"
-       r="24.892076" />
+       cx="15.060839"
+       cy="43.711403"
+       r="12.141508" />
     <circle
-       style="fill:#40fbff;stroke-width:0.264583;fill-opacity:1"
+       style="fill:#40fbff;fill-opacity:1;stroke-width:0.129055"
        id="path1-2"
-       cx="56.262917"
-       cy="171.01845"
-       r="24.892076" />
+       cx="15.060839"
+       cy="73.195229"
+       r="12.141508" />
     <circle
-       style="fill:#ffffef;stroke-width:0.264583;fill-opacity:1"
+       style="fill:#ffffef;fill-opacity:1;stroke-width:0.129055"
        id="path1-7"
-       cx="56.262917"
-       cy="231.4651"
-       r="24.892076" />
+       cx="15.060839"
+       cy="102.67905"
+       r="12.141508" />
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text2"
-       style="fill:#000000;text-align:start;writing-mode:lr-tb;text-orientation:auto;direction:ltr;white-space:pre;shape-inside:url(#rect2)" />
+       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#000000" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-17.390356,4.8373292)"
+       transform="matrix(0.12905475,0,0,0.12905475,-20.864722,-7.8622714)"
        id="text3"
-       style="font-size:29.3333px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);fill:#000000"><tspan
+       style="font-size:29.3333px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);display:inline;fill:#000000"><tspan
          x="396.84961"
          y="178.76386"
-         id="tspan2">Атомный чёрный #000000</tspan></text>
+         id="tspan6">Атомный чёрный #000000</tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-17.390356,125.73064)"
+       transform="matrix(0.12905475,0,0,0.12905475,-20.864722,51.105374)"
        id="text3-8"
        style="font-size:29.3333px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-6);display:inline;fill:#000000"><tspan
          x="396.84961"
          y="178.76386"
-         id="tspan3">Электро-циан #40fbffff</tspan></text>
+         id="tspan7">Электро-циан #40fbffff</tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-17.390356,186.17729)"
+       transform="matrix(0.12905475,0,0,0.12905475,-20.864722,80.589194)"
        id="text3-3"
        style="font-size:29.3333px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-0);display:inline;fill:#000000"><tspan
          x="396.84961"
          y="178.76386"
-         id="tspan4">Мягкий белый #ffffefff</tspan></text>
+         id="tspan8">Мягкий белый #ffffefff</tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-19.846735,66.176511)"
-       id="text3-0"
-       style="font-size:29.3333px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-3);fill:#000000"><tspan
+       transform="matrix(0.12905475,0,0,0.12905475,-20.6672,140.33731)"
+       id="text3-3-3"
+       style="font-size:29.3333px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-0-0);display:inline;fill:#000000"><tspan
          x="396.84961"
          y="178.76386"
-         id="tspan5">Фиолетовый неон #c49affff</tspan></text>
+         id="tspan9">Ошибочный красный #ff4c4cff</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.12905475,0,0,0.12905475,-20.47792,169.48926)"
+       id="text3-3-3-2"
+       style="font-size:29.3333px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-0-0-7);display:inline;fill:#000000"><tspan
+         x="396.84961"
+         y="178.76386"
+         id="tspan10">Успешный зелёный #66ff6eff</tspan></text>
+    <circle
+       style="fill:#fffc36;fill-opacity:0.69652;stroke-width:0.129055"
+       id="path1-7-3"
+       cx="15.060839"
+       cy="132.16287"
+       r="12.141508" />
+    <circle
+       style="fill:#ff4c4c;fill-opacity:1;stroke-width:0.129055"
+       id="path1-7-3-1"
+       cx="15.060839"
+       cy="161.6467"
+       r="12.141508" />
+    <circle
+       style="fill:#66ff6e;fill-opacity:1;stroke-width:0.129055"
+       id="path1-7-3-1-6"
+       cx="15.060839"
+       cy="191.13052"
+       r="12.141508" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.12905475,0,0,0.12905475,-20.440064,110.52161)"
+       id="text3-3-5"
+       style="font-size:29.3333px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-0-7);display:inline;fill:#000000"><tspan
+         x="396.84961"
+         y="178.76386"
+         id="tspan11">Жёлтая опасность #fffc36b2</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.12905475,0,0,0.12905475,-22.06286,22.056895)"
+       id="text3-0"
+       style="font-size:29.3333px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-3);display:inline;fill:#000000"><tspan
+         x="396.84961"
+         y="178.76386"
+         id="tspan12">Фиолетовый неон #c49affff</tspan></text>
   </g>
 </svg>
