@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.54866745"
-     inkscape:cx="-384.5681"
-     inkscape:cy="558.62618"
+     inkscape:zoom="3.4886705"
+     inkscape:cx="213.11844"
+     inkscape:cy="535.01757"
      inkscape:window-width="1916"
      inkscape:window-height="1044"
      inkscape:window-x="0"
@@ -130,7 +130,7 @@
        style="font-size:29.3333px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);display:inline;fill:#000000"><tspan
          x="396.84961"
          y="178.76386"
-         id="tspan6">Атомный чёрный #000000</tspan></text>
+         id="tspan1">Атомный чёрный #000000</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.12905475,0,0,0.12905475,-20.864722,51.105374)"
@@ -138,7 +138,7 @@
        style="font-size:29.3333px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-6);display:inline;fill:#000000"><tspan
          x="396.84961"
          y="178.76386"
-         id="tspan7">Электро-циан #40fbffff</tspan></text>
+         id="tspan2">Электро-циан #40fbffff</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.12905475,0,0,0.12905475,-20.864722,80.589194)"
@@ -146,7 +146,7 @@
        style="font-size:29.3333px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-0);display:inline;fill:#000000"><tspan
          x="396.84961"
          y="178.76386"
-         id="tspan8">Мягкий белый #ffffefff</tspan></text>
+         id="tspan3">Мягкий белый #ffffefff</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.12905475,0,0,0.12905475,-20.6672,140.33731)"
@@ -154,7 +154,7 @@
        style="font-size:29.3333px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-0-0);display:inline;fill:#000000"><tspan
          x="396.84961"
          y="178.76386"
-         id="tspan9">Ошибочный красный #ff4c4cff</tspan></text>
+         id="tspan4">Ошибочный красный #ff4c4cff</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.12905475,0,0,0.12905475,-20.47792,169.48926)"
@@ -162,9 +162,9 @@
        style="font-size:29.3333px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-0-0-7);display:inline;fill:#000000"><tspan
          x="396.84961"
          y="178.76386"
-         id="tspan10">Успешный зелёный #66ff6eff</tspan></text>
+         id="tspan5">Успешный зелёный #66ff6eff</tspan></text>
     <circle
-       style="fill:#fffc36;fill-opacity:0.69652;stroke-width:0.129055"
+       style="fill:#fffc6b;fill-opacity:1;stroke-width:0.129055"
        id="path1-7-3"
        cx="15.060839"
        cy="132.16287"
@@ -188,7 +188,7 @@
        style="font-size:29.3333px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-0-7);display:inline;fill:#000000"><tspan
          x="396.84961"
          y="178.76386"
-         id="tspan11">Жёлтая опасность #fffc36b2</tspan></text>
+         id="tspan6">Жёлтая опасность #fffc36ff</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.12905475,0,0,0.12905475,-22.06286,22.056895)"
@@ -196,6 +196,6 @@
        style="font-size:29.3333px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-3);display:inline;fill:#000000"><tspan
          x="396.84961"
          y="178.76386"
-         id="tspan12">Фиолетовый неон #c49affff</tspan></text>
+         id="tspan7">Фиолетовый неон #c49affff</tspan></text>
   </g>
 </svg>
